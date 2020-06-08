@@ -46,3 +46,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/an
 [1.0.0 版本对模块引用做了明确要求](https://blog.csdn.net/balics/article/details/104479641)
 
 ## 截图
+![index](https://github.com/ljlhnick/react-test/blob/master/public/index.png)
+![login](https://github.com/ljlhnick/react-test/blob/master/public/login.png)
